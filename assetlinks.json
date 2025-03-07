@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "com.example.music_player",
+            "package_name": "com.example.music_player",
+            "sha256_cert_fingerprints": [
+                "E2:70:51:BA:16:18:76:72:DD:95:D9:50:86:3A:E2:4E:C5:48:6E:99:7B:56:05:53:23:42:18:CF:82:52:B4:C8"
+            ]
+        }
+    }
+]
